@@ -1,6 +1,6 @@
-# Subspace ChatBOT: A Real-Time AI Chat Application
+# ChatBOT: A Real-Time AI Chat Application
 
-Subspace ChatBOT is a modern, full-stack chat application designed for seamless, real-time conversations with an intelligent AI assistant.  
+ ChatBOT is a modern, full-stack chat application designed for seamless, real-time conversations with an intelligent AI assistant.  
 
 ---
 
