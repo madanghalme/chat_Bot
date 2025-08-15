@@ -5,9 +5,7 @@ Subspace ChatBOT is a modern, full-stack chat application designed for seamless,
 ---
 
 
-## 🔗 Deployed Link
 
-**[https://subspacemoney.netlify.app/](https://subspacemoney.netlify.app/)**
 
 ---
 ## 📸 Screenshots
